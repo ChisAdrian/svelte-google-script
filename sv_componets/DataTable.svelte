@@ -1,4 +1,5 @@
 <script>
+    //DataTable.svelte
     import { afterUpdate } from "svelte";
     export let tbl_data_cols;
     export let tbl_data_rows;
