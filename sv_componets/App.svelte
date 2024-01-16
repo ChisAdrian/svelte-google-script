@@ -1,8 +1,6 @@
 <script>
   /*
-  Code.gs
-
-
+  // Code.gs
     function doGet(e) {
     return HtmlService.createTemplateFromFile('index.html')
       .evaluate().setTitle('Title')
