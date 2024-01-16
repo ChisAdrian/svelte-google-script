@@ -79,7 +79,8 @@
   <p>Create an google Sheet </p>
   <p>Rename Sheet1 to DataSh </p>
   <p>Access scripts via Ectensions -> Apps Scripts </p>
-  <p>Add file of tipe html named index and copy content of  index.html from folder dist to index.html from Apps Scripts </p>
+  <p>Add file of tipe html named index and <br>
+          copy content of  index.html from folder dist to index.html from Apps Scripts </p>
   <p>Edit file (from Apps Scripts) Code.gs as  </p>
   
       function doGet(e) {
@@ -99,4 +100,7 @@
       return JSON.stringify(data);
     }
       
+  <p>In  Apps Script access Deploy -> New deployment  </p>
+  <p>Select type  Web app make configurations if you wish so and push Deploy </p>
+   <p>This will generate and link to your Web app  </p>
 
