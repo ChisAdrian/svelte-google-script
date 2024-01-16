@@ -1,5 +1,4 @@
-# svelte-google-script
-<h1>Starter from Svelte with google HtmlService</h1>
+#Starter from Svelte with google HtmlService
 <h2>Setup in VSCode</h2>
 <p>npm create vite@latest</p>
 <p>cd my-awesome-sfa</p>
