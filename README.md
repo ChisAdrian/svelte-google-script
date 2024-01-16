@@ -1,4 +1,5 @@
 #Starter from Svelte with google HtmlService
+
 <h2>Setup in VSCode</h2>
 <p>npm create vite@latest</p>
 <p>cd my-awesome-sfa</p>
@@ -75,6 +76,7 @@
   <p>This should create index.html in folder dist  </p>
    
 <h2>Setup google sheets</h2>
+
   <p>Create an google Sheet </p>
   <p>Rename Sheet1 to DataSh </p>
   <p>Access scripts via Ectensions -> Apps Scripts </p>
